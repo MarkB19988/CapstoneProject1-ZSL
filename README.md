@@ -1,4 +1,7 @@
+# Amazing Animal Rescue
 # Design Documentation
+
+### Mark Biswell, Sam Pearce, Ryan Edwards, George Haughton
 
 ## I. Introduction
 

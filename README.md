@@ -95,7 +95,7 @@ The game will be built as a web based app. This means that any device that has a
 We have been contracted by ZSL (Zoological Society of London) to design and produce an educational game based around the greenhouse gas chain for 4 different products, Plastic Bottles, Mobile Phones, Beef and Electronics that are left on stand-by. The game is to be used in classes the ZSL run at London Zoo for 11-16 year olds, the first of which will be run on the 14th November 2017. We will be having regular meetings with the client to collect feedback on our ideas and keep the client satisfied.
 
 ## II. First Client Meeting (2nd October 2017)
-Our first meeting with the client involeed a representative from ZSL visiting us and giving a presentation about what they wanted us to create for them. The information given to us included:
+Our first meeting with the client involeed a representative from ZSL visiting us and giving a presentation about what they wanted us to create for them.
 
 ## III. Schedule/Plan
 ![zsl-gant-chart](https://user-images.githubusercontent.com/31927590/32982650-aa66be46-cc7f-11e7-812b-7c7ca76f7c94.PNG)
@@ -156,10 +156,4 @@ Below we will break down each point of feedback and explain how we adapted our d
 | -------------- | -------------- |:----------------:|
 | With the original concept art we felt that it looked a little too cartoony. With the major change being the removal of the maze we decided to make the elements appeal to the client more, in order to do so we needed to add a lot more information on the screena about the chain.| ![zsl-game-screen](https://user-images.githubusercontent.com/31927590/33013769-13a112ea-cddd-11e7-9a8e-c43e99f727f8.png)| ![zsl-ocean-game-screen](https://user-images.githubusercontent.com/31927590/33014075-eacb21f2-cddd-11e7-9020-0d18243f677f.png)|
 
-## VII. Production
 
-## VIII. Testing
-
-## IX. Final Product Presentation (7th November 2017)
-
-## X. Review

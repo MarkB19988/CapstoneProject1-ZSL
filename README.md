@@ -119,11 +119,21 @@ As a contingency plan, incase their are problems with the computers that prevent
 
 ## V. Concept Pitch (17th October 2017)
 
+For our concept pitch, we traveled to ZSL Whipsnade to meet with the client. Before the meeting we had created a short powerpoint presentation with an idea of how we visioned the game as well as a few concept art designs to show where we wanted each element to go. Once the presentation was over we asked for feedback and questions to help us improve our idea and vision for the game. Below is a list of the feedback we recieved after the presentation.
+
 ### Preparation 
 
 #### Powerpoint
 
-Sam and Ryan will be responsible for 
+Sam and Ryan will be responsible for creating the powerpoint and the concept art that will be included in the presentation. Sam will be focusing more on creating the concept art and Ryan will be more focused on adding the informtaion on features to the powerpoint/
+
+#### Handouts
+
+George will be responsible for creating the handouts that will be given to the members of ZSL present at the pitch. The handouts will need to include the same information as on the powerpoint but more condensed as to fit on no more than 2 A4 pages. 
+
+#### Script/Notes
+
+I will be responsible for creating notes for me to use when I give the presentation. For this I will need to work with Ryan to make sure that what I talk about is included in the powerpoint and vice versa.
 
 ### Verbal
 Our concept pitch will consist of a power point presentation that I will stand up and present to the client that includes information on the following:
@@ -136,9 +146,8 @@ Also included is information on the features and mechanics of the game. As we ar
 
 ### Written
 
-We will also be providing handouts to the members of ZSL that are present at the concept pitch
+We will also be providing handouts to the members of ZSL that are present at the concept pitch for them to keep. These handouts will have the same information on them as the powerpoint, but having a physical copy allows the representative 
 
-For our concept pitch, we traveled to ZSL Whipsnade to meet with the client. Before the meeting we had created a short powerpoint presentation with an idea of how we visioned the game as well as a few concept art designs to show where we wanted each element to go. Once the presentation was over we asked for feedback and questions to help us improve our idea and vision for the game. Below is a list of the feedback we recieved after the presentation.
 
 Noted feedback:
 * Maze screen - want the chain to be the main feature/focus.

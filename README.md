@@ -1,7 +1,12 @@
 # Amazing Animal Rescue
 # Design Documentation
 
-### Mark Biswell, Sam Pearce, Ryan Edwards, George Haughton
+## Members List and Roles
+
+ Mark Biswell - Programming
+ Sam Pearce - Graphics
+ Ryan Edwards - Programming
+ George Haughton - Research and Testing
 
 ## I. Introduction
 

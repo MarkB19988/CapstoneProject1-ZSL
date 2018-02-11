@@ -3,10 +3,10 @@
 
 ## Members List and Roles
 
- Mark Biswell - Programming
- Sam Pearce - Graphics
- Ryan Edwards - Programming
- George Haughton - Research and Testing
+##### Mark Biswell - Programming
+##### Sam Pearce - Graphics
+##### Ryan Edwards - Programming
+##### George Haughton - Research and Testing
 
 ## I. Introduction
 

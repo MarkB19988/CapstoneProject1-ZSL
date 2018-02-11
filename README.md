@@ -91,8 +91,7 @@ materials
 
 ## V. Platform
 
-The game will be built as a web based app. This means that any device that has a compatable browser installed will be able to play the game. However, as requested by ZSL, the game will be optimised to run on iPad devices for use in their classes.
-
+The choice of platform for the game to run on provided more of a problem than we originally anticipated. The problem was that ZSL wanted the game to run on Apple iPads for use in their sessions at whipsnade zoo, but also wanted the game to be accessible to anyone at home regardless of device. Our original solution to this problem involved us building different versions of the app for use on different platforms (iOS, Android and windows), however this presented two big issues. The first issue was one of time, with the time alloted by ZSL we felt we would not have been able to produce 3 different versions of the game before the deadline. The second issue was one of cost. To develop for iOS one must aquire a Apple developer license that costs roughly £70 and neither us nor ZSL could commit the funds to obtain tbis license, which would leave us unable to develop for iOS therefore the app would not be usable on iPads, which was a key requirement. This led us to come up with our final solution, which was to make the game web based. A web based game would allow multiple platforms including iPads, to access and llay the game without having to make multiple versions for each operating system and after we consulted with ZSL, this was agreed to be the best solution.
 
 
 # Project Management Documentation

@@ -117,13 +117,25 @@ We have been contracted by ZSL (Zoological Society of London) to design and prod
 
 On the 2nd of October, a representative from ZSL will be coming into the college to give a presentation on what they want from the game. This will include information of what information needs to be included in the game, what the game should look like, the genre of game, the target audience and the date for completion.
 
-As the 2nd of October is a Monday we are scheduled to be in college already, however this day is very important I will have to make sure that nothing stops me from attending college this day. If an emergency does happen and I am unable to attend despite my best efforts, my team will all be writing notes individually so I will still be able to communicate with my team and learn about what the client wants from them.
+##### Problems to Solve
+
+As the 2nd of October is a Monday we are scheduled to be in college already, however this day is very important I will have to make sure that nothing stops me from attending college this day. If an emergency does happen and I am unable to attend despite my best efforts, my team will all be writing notes individually (Back-up copies) so I or any other member that is absent will still be able to communicate with theteam and learn about what the client wants from them.
 
 ### Concept Pitch Plan
 
 On the 17th of October, We will be going to ZLS whipsnade zoo to deliver our concept and ideas for the app we have designed. For this we have created a powerpoint presentation that talks about the features the app will have and how it will look. It will include concept art of the main menu and in-game scenes.
 
+##### Problems to Solve
+
 As a contingency plan, incase their are problems with the computers that prevent us from showing our presentation, we have printed out handouts to give to the ZSL representatives that includes all of the relevent images and information. This will enable us to still provide them with a good understanding of what the game will contain and how it will look even if we cannot use the presentation to help us.
+
+##### Time Alloted
+
+We have 15 days from the first client meeting to come up with our game idea and create a presentation to give to the client. For this we have allocated a time frame of 10 days to complete these tasks, this is to allow for 5 days extra incase something goes wrong (e.g. personal illness of a team memeber) so that we do not miss the deadline. 
+
+The first 4 days will be dedicated to coming up with our game concept. This will include us creating concept art that we can show the client so that they can have a clear picture of what we intend to make. We will need to decide on the goal of the game, how the player will interact with the game and how the information will be conveyed to the player. We expect this to take less time than creating the presentation itself so we have allocated less time to the concept phase
+
+The next 6 days will be used to create the presentation that we will be giving to the client on the 17th of October. We have allocated more time to this as we want to make the presentation as professional as possible. We will also need to create contingency plans incase something goes wrong during the presentation, such as a computer crash, so that we can contiue to present without a powerpoint. For these reasons we have given ourselves more time to complete all of these things.
 
 ## III. First Client Meeting (2nd October 2017)
 

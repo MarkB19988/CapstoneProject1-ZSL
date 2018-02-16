@@ -93,6 +93,15 @@ materials
 
 The choice of platform for the game to run on provided more of a problem than we originally anticipated. The problem was that ZSL wanted the game to run on Apple iPads for use in their sessions at whipsnade zoo, but also wanted the game to be accessible to anyone at home regardless of device. Our original solution to this problem involved us building different versions of the app for use on different platforms (iOS, Android and windows), however this presented two big issues. The first issue was one of time, with the time alloted by ZSL we felt we would not have been able to produce 3 different versions of the game before the deadline. The second issue was one of cost. To develop for iOS one must aquire a Apple developer license that costs roughly £70 and neither us nor ZSL could commit the funds to obtain this license, which would leave us unable to develop for iOS therefore the app would not be usable on iPads, which was a key requirement. This led us to come up with our final solution, which was to make the game web based. A web based game would allow multiple platforms including iPads, to access and llay the game without having to make multiple versions for each operating system and after we consulted with ZSL, this was agreed to be the best solution.
 
+## VI. Designing
+
+### Concept Drawing:
+|Explination:| Concept art:|
+| -------------- | -------------- |
+|The selection screen was a combined design as we all had the same idea for this screen, we wanted it to be simplistic as well as asphetically appealing. we wanted the player to be able to pick and choose from all 4 habitats and see a visual representation of each one.| ![selection screen](https://user-images.githubusercontent.com/31927590/32996215-fbd55924-cd77-11e7-98f4-a6dcc7221d1f.PNG)|
+|We originally wanted to have an animation once the player clicked on the habitat that they wanted to play. it was going to be a simple animation that would enlarge the graphic so you can see it clearer whilst loading the buttons which are added in the image below.|![animation](https://user-images.githubusercontent.com/31927590/32996235-249363f6-cd78-11e7-8528-a12bcf8fc81e.PNG)|
+|As you can see from the image to the right, we wanted the habitat that you selected to enlarge enough to see more detail but we also wanted the player to still be able to see the other habitats under it. We did not want the selected habitat to take over the whole screen.|![habitat screen](https://user-images.githubusercontent.com/31927590/32996250-48c0be0e-cd78-11e7-9f4e-9c4c17edfc6b.PNG)|
+
 
 # Project Management Documentation
 
@@ -101,11 +110,14 @@ The choice of platform for the game to run on provided more of a problem than we
 ## I. Project Overview
 We have been contracted by ZSL (Zoological Society of London) to design and produce an educational game based around the greenhouse gas chain for 4 different products, Plastic Bottles, Mobile Phones, Beef and Electronics that are left on stand-by. The game is to be used in classes the ZSL run at London Zoo for 11-16 year olds, the first of which will be run on the 14th November 2017. We will be having regular meetings with the client to collect feedback on our ideas and keep the client satisfied.
 
-## II. First Client Meeting (2nd October 2017)
-Our first meeting with the client involeed a representative from ZSL visiting us and giving a presentation about what they wanted us to create for them.
-
-## III. Schedule/Plan
+## II. Schedule/Plan
 ![zsl-gant-chart](https://user-images.githubusercontent.com/31927590/32982650-aa66be46-cc7f-11e7-812b-7c7ca76f7c94.PNG)
+
+### First client Meeting Plan 
+
+On the 2nd of October, a representative from ZSL will be coming into the college to give a presentation on what they want from the game. This will include information of what information needs to be included in the game, what the game should look like, the genre of game, the target audience and the date for completion.
+
+As the 2nd of October is a Monday we are scheduled to be in college already, however this day is very important I will have to make sure that nothing stops me from attending college this day. If an emergency does happen and I am unable to attend despite my best efforts, my team will all be writing notes individually so I will still be able to communicate with my team and learn about what the client wants from them.
 
 ### Concept Pitch Plan
 
@@ -113,33 +125,27 @@ On the 17th of October, We will be going to ZLS whipsnade zoo to deliver our con
 
 As a contingency plan, incase their are problems with the computers that prevent us from showing our presentation, we have printed out handouts to give to the ZSL representatives that includes all of the relevent images and information. This will enable us to still provide them with a good understanding of what the game will contain and how it will look even if we cannot use the presentation to help us.
 
-## IV. Designing
-### Concept Drawing:
-|Explination:| Concept art:|
-| -------------- | -------------- |
-|The selection screen was a combined design as we all had the same idea for this screen, we wanted it to be simplistic as well as asphetically appealing. we wanted the player to be able to pick and choose from all 4 habitats and see a visual representation of each one.| ![selection screen](https://user-images.githubusercontent.com/31927590/32996215-fbd55924-cd77-11e7-98f4-a6dcc7221d1f.PNG)|
-|We originally wanted to have an animation once the player clicked on the habitat that they wanted to play. it was going to be a simple animation that would enlarge the graphic so you can see it clearer whilst loading the buttons which are added in the image below.|![animation](https://user-images.githubusercontent.com/31927590/32996235-249363f6-cd78-11e7-8528-a12bcf8fc81e.PNG)|
-|As you can see from the image to the right, we wanted the habitat that you selected to enlarge enough to see more detail but we also wanted the player to still be able to see the other habitats under it. We did not want the selected habitat to take over the whole screen.|![habitat screen](https://user-images.githubusercontent.com/31927590/32996250-48c0be0e-cd78-11e7-9f4e-9c4c17edfc6b.PNG)|
+## III. First Client Meeting (2nd October 2017)
 
 ## V. Concept Pitch (17th October 2017)
 
 For our concept pitch, we traveled to ZSL Whipsnade to meet with the client. Before the meeting we had created a short powerpoint presentation with an idea of how we visioned the game as well as a few concept art designs to show where we wanted each element to go. Once the presentation was over we asked for feedback and questions to help us improve our idea and vision for the game. Below is a list of the feedback we recieved after the presentation.
 
-### Preparation 
+#### Preparation 
 
-#### Powerpoint
+### Powerpoint
 
 Sam and Ryan will be responsible for creating the powerpoint and the concept art that will be included in the presentation. Sam will be focusing more on creating the concept art and Ryan will be more focused on adding the informtaion on features to the powerpoint/
 
-#### Handouts
+### Handouts
 
 George will be responsible for creating the handouts that will be given to the members of ZSL present at the pitch. The handouts will need to include the same information as on the powerpoint but more condensed as to fit on no more than 2 A4 pages. 
 
-#### Script/Notes
+### Script/Notes
 
 I will be responsible for creating notes for me to use when I give the presentation. For this I will need to work with Ryan to make sure that what I talk about is included in the powerpoint and vice versa.
 
-### Verbal
+#### Verbal
 Our concept pitch will consist of a power point presentation that I will stand up and present to the client that includes information on the following:
 
 #### Concept art
@@ -150,7 +156,9 @@ Also included is information on the features and mechanics of the game. As we ar
 
 ### Written
 
-We will also be providing handouts to the members of ZSL that are present at the concept pitch for them to keep. These handouts will have the same information on them as the powerpoint, but having a physical copy allows the representative 
+We will also be providing handouts to the members of ZSL that are present at the concept pitch for them to keep. These handouts will have the same information on them as the powerpoint, but having a physical copy allows the representative
+
+## Feedback From The Client
 
 
 Noted feedback:

@@ -168,10 +168,21 @@ Also included is information on the features and mechanics of the game. As we ar
 
 ### Written
 
-We will also be providing handouts to the members of ZSL that are present at the concept pitch for them to keep. These handouts will have the same information on them as the powerpoint, but having a physical copy allows the representative
+We will also be providing handouts to the members of ZSL that are present at the concept pitch for them to keep. These handouts will have the same information on them as the powerpoint, but having a physical copy allows the representative to refer back to the presentation even after we have finished and enables them to share our ideas with people that wern't present at the meeting.
 
-## Feedback From The Client
+## Quantitative Research 
 
+In order to make sure that our ideas were suitable for the client, we needed to conduct some research to see if people agreed with us. To do this we designed a quantitative survey that we gave out to many of our class mates and other students to see what they thought of our design. The questions had answers ranging from 1 to 10, with 1 being 'Strongly Disagree' and 10 being 'Strongly Agree'. In total we asked 30 classmates and other students to fill out this survey on our game. Each person was show the following 3 images of our game (With a description of what is happening) and were asked the following questions
+
+#### Question 1. Do you think that the artistic design shown is suitable for children aged between 11 - 16?
+
+The mean average answer we got for this question was a 7.3. This is a strong indication that our art style was close to what people would expect form a childrens game but there may be certain aspects that could be improved. We decided that we would need to ask questions to the client to get a more detailed response on the art style.
+
+#### Question 2.
+
+## Feedback From The Research (Meeting With Client)
+
+From the answers we recieved from our questions we were able to come out with the following key feedback:
 
 Noted feedback:
 * Maze screen - want the chain to be the main feature/focus.

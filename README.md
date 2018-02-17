@@ -188,7 +188,7 @@ This question was asked to make sure that the game could quickly be picked up an
 
 #### Question 4. The game looks fun and engaging.
 
-This question would be more difficult for the person to answer as they did not bave a version of the game to play at the time. Although this was the case 
+This question would be more difficult for the person to answer as they did not bave a version of the game to play at the time. Although this was the case we felt that it would be useful to get rough idea of people's opinions. However we already knew thst further testing was needed once a demo was finished. The response to this was mixed, averaging 6.2 with highs of 9 and lows of 3. This was expected for this question because as stated before, this question is more difficult to answer without access to a demo. However it gave some indication that work was needed to make the game more engaging.
 
 
 

@@ -170,7 +170,11 @@ Also included is information on the features and mechanics of the game. As we ar
 
 We will also be providing handouts to the members of ZSL that are present at the concept pitch for them to keep. These handouts will have the same information on them as the powerpoint, but having a physical copy allows the representative to refer back to the presentation even after we have finished and enables them to share our ideas with people that wern't present at the meeting.
 
-## Quantitative Research 
+## Qualitative Research (Education Games Research)
+
+
+
+## Quantitative Research (Survey)
 
 In order to make sure that our ideas were suitable for the client, we needed to conduct some research to see if people agreed with us. To do this we designed a quantitative survey that we gave out to many of our class mates and other students to see what they thought of our design. The questions had answers ranging from 1 to 10, with 1 being 'Strongly Disagree' and 10 being 'Strongly Agree'. In total we asked 15 classmates and other students to fill out this survey on our game. Each person was show the following 3 images of our game (With a description of what is happening) and were asked the following questions
 

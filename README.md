@@ -186,7 +186,9 @@ The mean average for this question was concerningly quite low at just 6.2. This 
 
 This question was asked to make sure that the game could quickly be picked up and played as each game session at ZSL was only supposed to last for 5 minutes. This meant that there was no time for the player to learn the controls beforehand so they had to be intuitive. We got an average response of 8.1 on this question. This showed us that out simple arrow button interface was as intuitive as we hoped it to be so we didnt feel like we had to make changes to our control scheme.
 
-#### Question 4.
+#### Question 4. The game looks fun and engaging.
+
+This question would be more difficult for the person to answer as they did not bave a version of the game to play at the time. Although this was the case 
 
 
 

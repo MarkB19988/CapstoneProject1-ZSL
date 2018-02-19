@@ -173,9 +173,6 @@ Also included is information on the features and mechanics of the game. As we ar
 
 We will also be providing handouts to the members of ZSL that are present at the concept pitch for them to keep. These handouts will have the same information on them as the powerpoint, but having a physical copy allows the representative to refer back to the presentation even after we have finished and enables them to share our ideas with people that wern't present at the meeting.
 
-## Qualitative Research (Educational Games Research)
-
-
 
 ## Quantitative Research (Survey)
 
@@ -201,11 +198,17 @@ This question was asked to make sure that the game could quickly be picked up an
 
 This question would be more difficult for the person to answer as they did not bave a version of the game to play at the time. Although this was the case we felt that it would be useful to get rough idea of people's opinions. However we already knew thst further testing was needed once a demo was finished. The response to this was mixed, averaging 5.9 with highs of 9 and lows of 3. This was expected for this question because as stated before, this question is more difficult to answer without access to a demo. However it gave some indication that work was needed to make the game more engaging.
 
+## Qualitative Research (Client Feedback)
 
+After we had delivered out concept pitch. We openly asked the client for any feedback, good or bad, on our ideas in order to collect more detailed information on our ideas and how they meet or do not meed their needs.
+
+The client was overall pleased with the graphics and visual stlyle we have used, stating that 'The art style makes the game look very engaging to the young target audience' However they expressed concern that perhaps as we had used a more cartoon style for our art work, the older side of the target audience would not appreciate the game and take the information it provided seriously. They made the recommendation of maybe making two versions with small graphical differences in order 
+
+One key point that the client was particularly vocal about was how we were going to present the information on the greenhouse gas chain to the player. They did not feel that we had made the greenhouse gas chain the main focus of the game and inturn did not belive that our design in its current state would meet their needs. They did provide us with alot of feedback about how they thought the game could be improved. The main point they raised is that we were not including every step of the chain in each maze, saying that 'All of the information needs to be present in order for the game to relate to what we will be teaching the children'. 
 
 ## Analysis of the Feedback (Meeting With Client and Student Survey)
 
-From the answers we recieved from our questions we were able to come out with the following key feedback:
+From the answers we recieved from our questions and what the client told us we were able to come out with the following key feedback:
 
 Noted feedback:
 * Maze screen - want the chain to be the main feature/focus.

@@ -110,6 +110,10 @@ The choice of platform for the game to run on provided more of a problem than we
 ## I. Project Overview
 We have been contracted by ZSL (Zoological Society of London) to design and produce an educational game based around the greenhouse gas chain for 4 different products, Plastic Bottles, Mobile Phones, Beef and Electronics that are left on stand-by. The game is to be used in classes the ZSL run at London Zoo for 11-16 year olds, the first of which will be run on the 14th November 2017. We will be having regular meetings with the client to collect feedback on our ideas and keep the client satisfied.
 
+### Project Objective
+The objective for this project is to create an interactive, educational game that runs on Apple iPads. The game will be played by 11-16 year olds who are visiting ZSL to learn about the greenhouse gas chain. The game needs to teach the children what the different stages of the greenhouse gas chain are and also how they can reduce their greenhouse gas footprint.
+
+
 ## II. Schedule/Plan
 ![zsl-gant-chart](https://user-images.githubusercontent.com/31927590/32982650-aa66be46-cc7f-11e7-812b-7c7ca76f7c94.PNG)
 
@@ -124,10 +128,6 @@ As the 2nd of October is a Monday we are scheduled to be in college already, how
 ### Concept Pitch Plan
 
 On the 17th of October, We will be going to ZLS whipsnade zoo to deliver our concept and ideas for the app we have designed. For this we have created a powerpoint presentation that talks about the features the app will have and how it will look. It will include concept art of the main menu and in-game scenes.
-
-#### Problem Decomposition
-
-In order to create our pitch we had to break down the the task into individual sections so that we could split the workload between the four members. We chose to break the task down into the 3 things that we had to create for the pitch. The Powerpoint presentation, the handouts and the script or notes.
 
 ##### Problems to Solve
 

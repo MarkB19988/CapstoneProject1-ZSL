@@ -129,6 +129,8 @@ On the 17th of October, We will be going to ZLS whipsnade zoo to deliver our con
 
 As a contingency plan, incase their are problems with the computers that prevent us from showing our presentation, we have printed out handouts to give to the ZSL representatives that includes all of the relevent images and information. This will enable us to still provide them with a good understanding of what the game will contain and how it will look even if we cannot use the presentation to help us.
 
+We will also have with us back-ups of our presentation on multiple USB drives so that if one gets corrupted or the USB itself is lost or damaged, we will still have access to a copy. We have online back-ups also, however we cannot guarantee internet access at the pitch so a local copy was deemed necessary.
+
 ##### Time Alloted
 
 We have 15 days from the first client meeting to come up with our game idea and create a presentation to give to the client. For this we have allocated a time frame of 10 days to complete these tasks, this is to allow for 5 days extra incase something goes wrong (e.g. personal illness of a team memeber) so that we do not miss the deadline. 

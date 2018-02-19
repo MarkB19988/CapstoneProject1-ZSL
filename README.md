@@ -125,6 +125,10 @@ As the 2nd of October is a Monday we are scheduled to be in college already, how
 
 On the 17th of October, We will be going to ZLS whipsnade zoo to deliver our concept and ideas for the app we have designed. For this we have created a powerpoint presentation that talks about the features the app will have and how it will look. It will include concept art of the main menu and in-game scenes.
 
+#### Problem Decomposition
+
+In order to create our pitch we had to break down the the task into individual sections so that we could split the workload between the four members. We chose to break the task down into the 3 things that we had to create for the pitch. The Powerpoint presentation, the handouts and the script or notes.
+
 ##### Problems to Solve
 
 As a contingency plan, incase their are problems with the computers that prevent us from showing our presentation, we have printed out handouts to give to the ZSL representatives that includes all of the relevent images and information. This will enable us to still provide them with a good understanding of what the game will contain and how it will look even if we cannot use the presentation to help us.

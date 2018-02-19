@@ -143,22 +143,23 @@ The next 6 days will be used to create the presentation that we will be giving t
 
 For our concept pitch, we traveled to ZSL Whipsnade to meet with the client. Before the meeting we had created a short powerpoint presentation with an idea of how we visioned the game as well as a few concept art designs to show where we wanted each element to go. Once the presentation was over we asked for feedback and questions to help us improve our idea and vision for the game. Below is a list of the feedback we recieved after the presentation.
 
-#### Preparation 
+### Preparation 
 
-### Powerpoint
+#### Powerpoint
 
 Sam and Ryan will be responsible for creating the powerpoint and the concept art that will be included in the presentation. Sam will be focusing more on creating the concept art and Ryan will be more focused on adding the informtaion on features to the powerpoint/
 
-### Handouts
+#### Handouts
 
 George will be responsible for creating the handouts that will be given to the members of ZSL present at the pitch. The handouts will need to include the same information as on the powerpoint but more condensed as to fit on no more than 2 A4 pages. 
 
-### Script/Notes
-
+#### Script/Notes
 I will be responsible for creating notes for me to use when I give the presentation. For this I will need to work with Ryan to make sure that what I talk about is included in the powerpoint and vice versa.
 
-#### Verbal
-Our concept pitch will consist of a power point presentation that I will stand up and present to the client that includes information on the following:
+#### Communication Styles
+
+#### Verbal and Visual
+Our concept pitch will consist of a power point presentation that I will stand up and present to the client. The powerpoint will have basic images and notes for the client to look at while I give a talk about our game, I will be explaining to the client our ideas and giving them more information and detail to complement what they are seeing on screen.
 
 #### Concept art
 Included in the powerpoint will be draft concept images for the main menu of the game and of the in-game screen. This is to give the client a visual representation of what they can expect the game to look like. We can use this opportunity to collect feedback on what they like and what they don't like and make changes accordingly.

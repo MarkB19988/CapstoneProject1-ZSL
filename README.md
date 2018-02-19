@@ -208,9 +208,9 @@ One key point that the client was particularly vocal about was how we were going
 
 One final concern that the client raised was that of difficulty. The client felt that the maze looked too simple and would not keep the player(s) engaged for the full 5 minutes they required. We had thought about this previously so having some feedback on this was welcomed. Increasing the difficult or length of the maze would not be a difficult task so we made this a low priority as the client also stated that without a demo they could be wrong.
 
-## Analysis of the Feedback (Meeting With Client and Student Survey)
+## Analysis of the Research (Meeting With Client and Student Survey)
 
-From the answers we recieved from our questions and what the client told us we were able to come out with the following key feedback:
+From the answers we recieved from our questions and what the client told us we were able to extrapolate the following key feedback:
 
 Noted feedback:
 * Maze screen - want the chain to be the main feature/focus.

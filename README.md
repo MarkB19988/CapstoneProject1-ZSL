@@ -151,18 +151,25 @@ For our concept pitch, we traveled to ZSL Whipsnade to meet with the client. Bef
 
 ### Preparation 
 
-#### Powerpoint
+In order to prepare for this pitch our team will need to divide the work up evenly between the 4 of us. This is how we decided to divide the work.
 
-Sam and Ryan will be responsible for creating the powerpoint and the concept art that will be included in the presentation. Sam will be focusing more on creating the concept art and Ryan will be more focused on adding the informtaion on features to the powerpoint/
+##### Sam and Ryan (Powerpoint)
 
-#### Handouts
+Sam and Ryan will be responsible for creating the powerpoint and the concept art that will be included in the presentation. Sam will be focusing more on creating the concept art and Ryan will be more focused on adding the informtaion on features to the powerpoint. We decided to put 2 of us to work on this because the powerpoint is the main asset we will need during the pitch so we wanted to make sure it was completed on time and to a high standard.
 
-George will be responsible for creating the handouts that will be given to the members of ZSL present at the pitch. The handouts will need to include the same information as on the powerpoint but more condensed as to fit on no more than 2 A4 pages. 
+##### George (Handouts)
 
-#### Script/Notes
-I will be responsible for creating notes for me to use when I give the presentation. For this I will need to work with Ryan to make sure that what I talk about is included in the powerpoint and vice versa.
+George will be responsible for creating the handouts that will be given to the members of ZSL present at the pitch. The handouts will need to include the same information as on the powerpoint but more condensed as to fit on no more than 2 A4 pages. To make sure the information is the same. George will still be working closely with Ryan as he is the one writing the information for the powerpoint.
 
-#### Communication Styles
+##### Myself (Script/Notes)
+
+I will be responsible for creating notes for me to use when I give the presentation. For this I will need to work with Ryan to make sure that what I talk about is included in the powerpoint and vice versa. While I wont be having a full script to read from during the presentation, we felt it good to make a script so that I have a memory of what to talk about along side the notes.
+
+##### Was This Effective?
+
+
+
+### Communication Styles
 
 #### Verbal and Visual
 Our concept pitch will consist of a power point presentation that I will stand up and present to the client. The powerpoint will have basic images and notes for the client to look at while I give a talk about our game, I will be explaining to the client our ideas and giving them more information and detail to complement what they are seeing on screen.

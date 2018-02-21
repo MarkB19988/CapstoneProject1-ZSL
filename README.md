@@ -113,6 +113,40 @@ We have been contracted by ZSL (Zoological Society of London) to design and prod
 ### Project Objective
 The objective for this project is to create an interactive, educational game that runs on Apple iPads. The game will be played by 11-16 year olds who are visiting ZSL to learn about the greenhouse gas chain. The game needs to teach the children what the different stages of the greenhouse gas chain are and also how they can reduce their greenhouse gas footprint.
 
+### Tools and Techniques
+
+#### Tools 
+
+##### Photoshop 
+
+We used Photoshop to create are 4 habitat backgrounds. Which saved us money instead of buying them from a web source which can be expensive. We also used Photoshop to create the maze in are first prototype of our game. Photoshop was also used to create the greenhouse gas meter on the right hand side
+
+##### Github 
+
+As a group we used GitHub a lot to trade documentation between all of us as when we were not in class it was harder to send work to each other and we also used it to keep a backup every one uploaded work there and when a certain person needed something they knew where to go. We also used it to make a glossary for the finished ZSL project where we had all are finished documentation
+
+##### Unity 
+
+We used Unity to create are application. We figured unity was the best to use as a group of 4 we could all work on it at the same time and then upload it for each other so we could complete it faster. It was also easy to use and had a lot of assists which we used as we were only starting out on the program.
+
+##### Power Point 
+
+We used Power Point for are presentations, first when she came in to see are ideas and concept designs we made a short presentation to show off the ideas so it was easy for her to see what are ideas where. We also used Power Point to present are final game to them when we went to Whipsnade zoo. We showed are finished design and how we adapted to feed back. The reason we used Power Point was that it is the simplest and best presentation software out there. We also used Power Point online so all four of us could work on different slides for the certain parts of work that each person did.
+
+#### Techniques 
+
+##### Interviews 
+
+We had multiple interviews with ZSL. The first one was when Michelle came in to tell us about the project and what she wants at the end of it. We all took notes so that we could get more information from what she was saying as well as off the Power Point she had. The other Interview we did was when we were at ZSL presenting are final game.
+
+##### Prototyping 
+
+We used prototyping when was creating are game in Unity we tested everything after doing sections of code and saving backups all the time. We also loaded up separate Unity programs to test certain parts to see if each part was working so if we had a problem when we put it together it would be easier to find the problem
+
+##### Presentations 
+
+We presented are game in a presentation as it is easy to get your points across and it captures people’s attention when you are standing at the front of the room and have your presentation behind you. You can also use your body language and speaking skills to help present your work and get it across
+
 
 ## II. Schedule/Plan
 ![zsl-gant-chart](https://user-images.githubusercontent.com/31927590/32982650-aa66be46-cc7f-11e7-812b-7c7ca76f7c94.PNG)

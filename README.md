@@ -208,15 +208,21 @@ I will be responsible for creating notes for me to use when I give the presentat
 #### Verbal and Visual
 Our concept pitch will consist of a power point presentation that I will stand up and present to the client. The powerpoint will have basic images and notes for the client to look at while I give a talk about our game, I will be explaining to the client our ideas and giving them more information and detail to complement what they are seeing on screen.
 
-#### Concept art
+###### Concept art
 Included in the powerpoint will be draft concept images for the main menu of the game and of the in-game screen. This is to give the client a visual representation of what they can expect the game to look like. We can use this opportunity to collect feedback on what they like and what they don't like and make changes accordingly.
 
-#### Features
+###### Features
 Also included is information on the features and mechanics of the game. As we are not giving them a demo of the game we have more concept images that can be used to show them how the game will function. For example, we will have to show the client how the player will move the characters so we will be using diagrams to show the different actions the player will have to do (e.g. Pinch, tap) in order to perform each funtion
 
-### Written
+#### Written
 
+###### Handouts
 We will also be providing handouts to the members of ZSL that are present at the concept pitch for them to keep. These handouts will have the same information on them as the powerpoint, but having a physical copy allows the representative to refer back to the presentation even after we have finished and enables them to share our ideas with people that wern't present at the meeting.
+
+#### Body Language
+
+###### Gesture and Movement
+During the presentation I will be walking around the stage and using gestures to point out key information on the screen or to build enthusiasm for the project. By staying mobile while presenting I will show more confidence to the client and they will be more engaged in the presentation.
 
 
 ## Quantitative Research (Survey)

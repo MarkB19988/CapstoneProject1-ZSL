@@ -113,6 +113,8 @@ We have been contracted by ZSL (Zoological Society of London) to design and prod
 ### Project Objective
 The objective for this project is to create an interactive, educational game that runs on Apple iPads. The game will be played by 11-16 year olds who are visiting ZSL to learn about the greenhouse gas chain. The game needs to teach the children what the different stages of the greenhouse gas chain are and also how they can reduce their greenhouse gas footprint.
 
+
+
 ### Tools and Techniques
 
 #### Tools 
@@ -149,19 +151,25 @@ We presented are game in a presentation as it is easy to get your points across 
 
 
 ## II. Schedule/Plan
+
+#### Gantt Chart
 ![zsl-gant-chart](https://user-images.githubusercontent.com/31927590/32982650-aa66be46-cc7f-11e7-812b-7c7ca76f7c94.PNG)
 
-### First client Meeting Plan 
+#### What Times Are We Available
+To manage our time effectively we first had to have a team meeting about what times everyone is available for this project. We knew that all of us were able to work on the project on Mondays, Tuesdays and Wednesday however all our members have other work commitments outside of college. Saturday and Sunday were ruled out as all of us worked over the weekend, this left Thursday and Friday. Thankfully only Sam was unavailable on Thursdays so we could use all of Friday for outside work and Me, Ryan and George could work on Thursday if needed.
 
+#### What Are The Deadlines
+Below are the deadlines for various sections of this project, usually these deadlines are when we are due to present something or to provide a demo to the client.
+
+###### First Client Meeting - 2nd of October 2017
 On the 2nd of October, a representative from ZSL will be coming into the college to give a presentation on what they want from the game. This will include information of what information needs to be included in the game, what the game should look like, the genre of game, the target audience and the date for completion.
 
-##### Problems to Solve
-
-As the 2nd of October is a Monday we are scheduled to be in college already, however this day is very important I will have to make sure that nothing stops me from attending college this day. If an emergency does happen and I am unable to attend despite my best efforts, my team will all be writing notes individually (Back-up copies) so I or any other member that is absent will still be able to communicate with theteam and learn about what the client wants from them.
-
-### Concept Pitch Plan
-
+###### Concept Pitch - 17th of October 2017
 On the 17th of October, We will be going to ZLS whipsnade zoo to deliver our concept and ideas for the app we have designed. For this we have created a powerpoint presentation that talks about the features the app will have and how it will look. It will include concept art of the main menu and in-game scenes.
+
+###### Demo Presentation - 7th of November 2017
+On the 7th of November, we will be going again to ZSL whipsnade zoo to demo our product to the client. For this we will create another powerpoint that shows the client how to play the game, and we will be allowing the client representatives to play the game on iPads while we present.
+
 
 ##### Problems Solving Techniques Used
 

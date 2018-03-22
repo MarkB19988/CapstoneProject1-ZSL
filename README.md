@@ -163,11 +163,16 @@ As the 2nd of October is a Monday we are scheduled to be in college already, how
 
 On the 17th of October, We will be going to ZLS whipsnade zoo to deliver our concept and ideas for the app we have designed. For this we have created a powerpoint presentation that talks about the features the app will have and how it will look. It will include concept art of the main menu and in-game scenes.
 
-##### Problems to Solve
+##### Problems Solving Techniques Used
 
-As a contingency plan, incase their are problems with the computers that prevent us from showing our presentation, we have printed out handouts to give to the ZSL representatives that includes all of the relevent images and information. This will enable us to still provide them with a good understanding of what the game will contain and how it will look even if we cannot use the presentation to help us.
+###### Contingency Plans
+As a contingency plan, incase their are problems with the computers that prevent us from showing our presentation, we have printed out handouts to give to the ZSL representatives that includes all of the relevent images and information. This will enable us to still provide them with a good understanding of what the game will contain and how it will look even if we cannot use the presentation to help us. We will also have with us back-ups of our presentation on multiple USB drives so that if one gets corrupted or the USB itself is lost or damaged, we will still have access to a copy. We have online back-ups also, however we cannot guarantee internet access at the pitch so a local copy was deemed necessary.
 
-We will also have with us back-ups of our presentation on multiple USB drives so that if one gets corrupted or the USB itself is lost or damaged, we will still have access to a copy. We have online back-ups also, however we cannot guarantee internet access at the pitch so a local copy was deemed necessary.
+###### Trial and Error
+When we arrived at ZSL we had to use our USB copy of the presentation to load from due to issues with google slides. However when we inserted our USB 
+
+###### Problem Breakdown
+We encountered an iussue with out presentation in that some of our graphics were not displaying correctly when we views the presentation. so we thought that the best course of action was to breakdown the problem and try to find why this error was occouring. firstly we cheked to make sure that the the image files we used were displying correctly using a normal image viewer, they were, so the files being corrupted were not an issue. After breaking down the problem further we discovered that we had issues with the transparency of the image in powerpoint itself and we easily rectified the situation.
 
 ##### Time Alloted
 

@@ -213,7 +213,7 @@ George will be responsible for creating the handouts that will be given to the m
 I will be responsible for creating notes for me to use when I give the presentation. For this I will need to work with Ryan to make sure that what I talk about is included in the powerpoint and vice versa. While I wont be having a full script to read from during the presentation, we felt it good to make a script so that I have a memory of what to talk about along side the notes.
 
 ##### Was This Effective?
-
+Overall, how we divided up the work was very effective in meeting our deadlines and creating the work to a excelent standard. Everyone worked to their strengths and helped others when they were having issues in order to keep the project on track.
 
 
 ### Communication Styles
@@ -315,4 +315,8 @@ Below we will break down each point of feedback and explain how we adapted our d
 | -------------- | -------------- |:----------------:|
 | With the original concept art we felt that it looked a little too cartoony. With the major change being the removal of the maze we decided to make the elements appeal to the client more, in order to do so we needed to add a lot more information on the screena about the chain.| ![zsl-game-screen](https://user-images.githubusercontent.com/31927590/33013769-13a112ea-cddd-11e7-9a8e-c43e99f727f8.png)| ![zsl-ocean-game-screen](https://user-images.githubusercontent.com/31927590/33014075-eacb21f2-cddd-11e7-9020-0d18243f677f.png)|
 
+### Value of Undertaking Research
+The research we undertook proved to be exremely useful and valuable in our efforts to meet the clients requirements and the project aims and objectives. By collecting feedback from the client after our presentation, we were able to make changes that the client felt were needed before production began on the game itself. By doing this, when the time came to present a demo of our game, we had already made sure that all of the features would be to the clients liking and avoided having to go back and re-do any segments of the game and overshoot our deadline.
+
+The survey we conducted also helped us to meet our project aims and objectives
 

@@ -158,7 +158,7 @@ We presented are game in a presentation as it is easy to get your points across 
 #### What Times Are We Available
 To manage our time effectively we first had to have a team meeting about what times everyone is available for this project. We knew that all of us were able to work on the project on Mondays, Tuesdays and Wednesday however all our members have other work commitments outside of college. Saturday and Sunday were ruled out as all of us worked over the weekend, this left Thursday and Friday. Thankfully only Sam was unavailable on Thursdays so we could use all of Friday for outside work and Me, Ryan and George could work on Thursday if needed.
 
-#### What Are The Deadlines
+#### What Are The Key Dates
 Below are the deadlines for various sections of this project, usually these deadlines are when we are due to present something or to provide a demo to the client.
 
 ###### First Client Meeting - 2nd of October 2017

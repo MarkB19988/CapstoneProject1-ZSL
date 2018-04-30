@@ -125,7 +125,7 @@ We used Photoshop to create are 4 habitat backgrounds. Which saved us money inst
 
 ##### Github 
 
-As a group we used GitHub a lot to trade documentation between all of us as when we were not in class it was harder to send work to each other and we also used it to keep a backup every one uploaded work there and when a certain person needed something they knew where to go. We also used it to make a glossary for the finished ZSL project where we had all are finished documentation
+As a group we used GitHub share documentation between us as when we were not in class it was harder to send work to each other and we also used it to keep a backup every one uploaded work there and when a certain person needed something they knew where to go. We also used it to make a glossary for the finished ZSL project where we had all are finished documentation
 
 ##### Unity 
 

@@ -129,7 +129,7 @@ As a group we used GitHub share documentation between us as when we were not in 
 
 ##### Unity 
 
-We used Unity to create are application. We figured unity was the best to use as a group of 4 we could all work on it at the same time and then upload it for each other so we could complete it faster. It was also easy to use and had a lot of assists which we used as we were only starting out on the program.
+We used Unity to create our application. We figured unity was the best to use as a group of 4 we could all work on it at the same time and then upload it for each other so we could complete it faster. It was also easy to use and had a lot of assists which we used as we were only starting out on the program.
 
 ##### Power Point 
 
